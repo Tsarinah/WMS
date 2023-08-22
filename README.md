@@ -1,4 +1,4 @@
-# Stok Warehouse Management System
+# Stock Warehouse Management System
 Built with CodeIgniter 3.1.13 and Mazer Template v2.0.3
 
 ## Installation Guide
